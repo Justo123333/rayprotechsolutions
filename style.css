@@ -1,0 +1,31 @@
+
+body{
+   background-color: rgb(211, 52, 145);
+   overflow: hidden;
+}
+
+.navbar_brand{
+    font-size: 35px;
+}
+
+
+#form{
+    background-color: rgb(155, 32, 108);
+    width: 38%;
+    border-radius: 8px;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(63, 56, 124);
+    margin-top: 25px;
+}
+#btn{
+    color: rgb(51, 19, 168);
+    background-color: rgba(36, 17, 102, 0.158);
+    padding: 120px auto;
+    font-size: x-large;
+    border-radius: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
